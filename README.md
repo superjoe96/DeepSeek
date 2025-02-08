@@ -7,7 +7,7 @@ A lightweight chatbot implementation using DeepSeek's language model, FastAPI ba
 This project implements a simple chatbot that uses:
 - Frontend: Single HTML file with vanilla JavaScript
 - Backend: FastAPI server that interfaces with HuggingFace's DeepSeek model
-- Model: DeepSeek-R1-Distill-Qwen-32B via HuggingFace Inference API
+- Model: DeepSeek-R1-Distill-Qwen-70B via HuggingFace Inference API
 
 The chatbot features:
 - Clean, WhatsApp-like UI
